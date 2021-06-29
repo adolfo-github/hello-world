@@ -1,2 +1,3 @@
 # hello-world
-Create my first repository
+
+Hi humans!
